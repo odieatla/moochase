@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<on xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="on_sources_2.0.xsd" schemaVersion="2.0">
+<header>
+<content>On(r) Movies: Sources</content>
+<created>2014-05-02</created>
+<copyright>Copyright 2014 Tribune Media Services. All rights reserved.</copyright>
+<start>2014-05-02T00:00:00</start>
+<period>P60D</period>
+</header>
+<sources>
+<theatres>
+<theatre theatreId="7135" aaCode="AABNG">
+<name>Regal Lakeline Mall 9</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAAQZ">Regal Cinemas</chain>
+<address>
+<street1>11200 Lakeline Mall Blvd.</street1>
+<city>Cedar Park</city>
+<state>TX</state>
+<postalCode>78613</postalCode>
+<country>USA</country>
+</address>
+<URL>www.REGmovies.com</URL>
+<telephone>512-416-5700</telephone>
+<screenCount>9</screenCount>
+<longitude>-97.8038</longitude>
+<latitude>30.4704</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="9227" aaCode="AAEBG">
+<name>Regal Gateway Stadium 16 &amp; IMAX</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAAQZ">Regal Cinemas</chain>
+<address>
+<street1>9700 Stonelake Blvd.</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78759</postalCode>
+<country>USA</country>
+</address>
+<URL>www.REGmovies.com</URL>
+<telephone>512-416-5700</telephone>
+<screenCount>16</screenCount>
+<longitude>-97.7386</longitude>
+<latitude>30.3883</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="6850" aaCode="AAEQI">
+<name>Cinemark Movies 8</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AACDD">Cinemark</chain>
+<address>
+<street1>2132 N. Mays St., Suite 800</street1>
+<city>Round Rock</city>
+<state>TX</state>
+<postalCode>78664</postalCode>
+<country>USA</country>
+</address>
+<URL>www.cinemark.com</URL>
+<telephone>800-326-3264-1199</telephone>
+<screenCount>8</screenCount>
+<longitude>-97.6896</longitude>
+<latitude>30.5318</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="7058" aaCode="AAEQK">
+<name>Cinemark Tinseltown 20 and XD</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AACDD">Cinemark</chain>
+<address>
+<street1>15436 FM 1825</street1>
+<city>Pflugerville</city>
+<state>TX</state>
+<postalCode>78660</postalCode>
+<country>USA</country>
+</address>
+<URL>www.cinemark.com</URL>
+<telephone>800-326-3264-1159</telephone>
+<screenCount>20</screenCount>
+<longitude>-97.6623</longitude>
+<latitude>30.4476</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="8182" aaCode="AAEUJ">
+<name>Regal Arbor Cinema at Great Hills</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAAQZ">Regal Cinemas</chain>
+<address>
+<street1>9828 Great Hills Trail, Suite 800</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78759</postalCode>
+<country>USA</country>
+</address>
+<URL>www.REGmovies.com</URL>
+<telephone>512-231-0427</telephone>
+<screenCount>8</screenCount>
+<longitude>-97.7487</longitude>
+<latitude>30.3942</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="8949" aaCode="AAFUQ">
+<name>Cinemark Tinseltown 17</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AACDD">Cinemark</chain>
+<address>
+<street1>5501 S. IH-35</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78744</postalCode>
+<country>USA</country>
+</address>
+<URL>www.cinemark.com</URL>
+<telephone>800-326-3264-1136</telephone>
+<screenCount>17</screenCount>
+<longitude>-97.7075</longitude>
+<latitude>30.3152</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="2469" aaCode="AAHUG">
+<name>Paramount Theatre</name>
+<types>
+<type>Art house</type>
+</types>
+<chain chainAaCode="AABWY">Independent Chains</chain>
+<address>
+<street1>713 Congress Ave</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78701</postalCode>
+<country>USA</country>
+</address>
+<URL>www.austintheatrealliance.org</URL>
+<telephone>512-472-5470</telephone>
+<screenCount>1</screenCount>
+<longitude>-97.7423</longitude>
+<latitude>30.2691</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="6041" aaCode="AAKBQ">
+<name>Showplace Cinema III</name>
+<types>
+<type>Second run</type>
+</types>
+<chain chainAaCode="AAVQL">Texas Cinema</chain>
+<address>
+<street1>321 N. LBJ Dr.</street1>
+<city>San Marcos</city>
+<state>TX</state>
+<postalCode>78666</postalCode>
+<country>USA</country>
+</address>
+<URL>www.texascinema.com</URL>
+<telephone>512-353-3555</telephone>
+<screenCount>3</screenCount>
+<longitude>-97.9404</longitude>
+<latitude>29.8847</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="8498" aaCode="AALHE">
+<name>Regal Metropolitan Stadium 14</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAAQZ">Regal Cinemas</chain>
+<address>
+<street1>901 Little Texas Lane</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78745</postalCode>
+<country>USA</country>
+</address>
+<URL>www.REGmovies.com</URL>
+<telephone>512-416-5700</telephone>
+<screenCount>14</screenCount>
+<longitude>-97.7685</longitude>
+<latitude>30.1985</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="5320" aaCode="AANCC">
+<name>AMC Barton Creek Square 14</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAALL">AMC Theatres</chain>
+<address>
+<street1>2901 Capital of Texas Hwy.</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78746</postalCode>
+<country>USA</country>
+</address>
+<URL>www.amctheatres.com</URL>
+<telephone>888-262-4386</telephone>
+<screenCount>14</screenCount>
+<longitude>-97.8091</longitude>
+<latitude>30.2961</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="8298" aaCode="AANOT">
+<name>Regal Westgate Stadium 11 Theatres</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAAQZ">Regal Cinemas</chain>
+<address>
+<street1>4477 South Lamar Blvd.</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78745</postalCode>
+<country>USA</country>
+</address>
+<URL>www.REGmovies.com</URL>
+<telephone>512-416-5700</telephone>
+<screenCount>11</screenCount>
+<longitude>-97.7990</longitude>
+<latitude>30.2322</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="3195" aaCode="AAOCK">
+<name>Starplex</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAVQL">Texas Cinema</chain>
+<address>
+<street1>1250 Wonderworld Drive</street1>
+<city>San Marcos</city>
+<state>TX</state>
+<postalCode>78666</postalCode>
+<country>USA</country>
+</address>
+<URL>www.texascinema.com</URL>
+<telephone>512-805-8000</telephone>
+<screenCount>12</screenCount>
+<longitude>-97.9489</longitude>
+<latitude>29.8533</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="526" aaCode="AAPFV">
+<name>Millennium Theater</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AABWY">Independent Chains</chain>
+<address>
+<street1>1156 Hargrave St.</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78702</postalCode>
+<country>USA</country>
+</address>
+<URL>www.myec.net</URL>
+<telephone>512-472-6932</telephone>
+<screenCount>1</screenCount>
+<longitude>-97.7094</longitude>
+<latitude>30.2726</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="4604" aaCode="AAPOB">
+<name>Bullock Texas State History Museum: IMAX Theatre</name>
+<types>
+<type>IMAX</type>
+</types>
+<chain chainAaCode="AATFA">IMAX Theatres</chain>
+<address>
+<street1>1800 N Congress Ave.</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78701</postalCode>
+<country>USA</country>
+</address>
+<URL>www.thestoryoftexas.com</URL>
+<telephone>512-936-4649</telephone>
+<screenCount>1</screenCount>
+<longitude>-97.7383</longitude>
+<latitude>30.2800</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="5988" aaCode="AAPPY">
+<name>Alamo Drafthouse Village</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAWLQ">Alamo Drafthouse</chain>
+<address>
+<street1>2700 W. Anderson Lane</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78757</postalCode>
+<country>USA</country>
+</address>
+<URL>www.drafthouse.com</URL>
+<telephone>512-861-7030</telephone>
+<screenCount>4</screenCount>
+<longitude>-97.7343</longitude>
+<latitude>30.3578</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="8749" aaCode="AAQCN">
+<name>Galaxy Highland 10</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAVMW">Galaxy Theatres</chain>
+<address>
+<street1>6700 Middle Fiskville Rd.</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78752</postalCode>
+<country>USA</country>
+</address>
+<URL>www.galaxytheatres.com</URL>
+<telephone>512-467-7305</telephone>
+<screenCount>10</screenCount>
+<longitude>-97.7064</longitude>
+<latitude>30.3292</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="5084" aaCode="AATHS">
+<name>Alamo Drafthouse South Lamar</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAWLQ">Alamo Drafthouse</chain>
+<address>
+<street1>1120 S. Lamar Blvd.</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78704</postalCode>
+<country>USA</country>
+</address>
+<URL>www.drafthouse.com</URL>
+<telephone>512-476-1320</telephone>
+<screenCount>7</screenCount>
+<longitude>-97.7619</longitude>
+<latitude>30.2553</latitude>
+<active>false</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="9087" aaCode="AAUEM">
+<name>Cinemark 14 Round Rock</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AACDD">Cinemark</chain>
+<address>
+<street1>4401 N. IH-35</street1>
+<city>Round Rock</city>
+<state>TX</state>
+<postalCode>78664</postalCode>
+<country>USA</country>
+</address>
+<URL>www.cinemark.com</URL>
+<telephone>800-326-3264-1199</telephone>
+<screenCount>14</screenCount>
+<longitude>-97.6518</longitude>
+<latitude>30.5083</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="2327" aaCode="AAUHC">
+<name>City Lights Theatres - Georgetown 12</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAWXU">Schulman Theatres</chain>
+<address>
+<street1>420 Wolf Ranch Parkway</street1>
+<city>Georgetown</city>
+<state>TX</state>
+<postalCode>78628</postalCode>
+<country>USA</country>
+</address>
+<URL>www.citylightstheatres.com</URL>
+<telephone>512-868-9922</telephone>
+<screenCount>12</screenCount>
+<longitude>-97.6900</longitude>
+<latitude>30.6489</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="9306" aaCode="AAUIY">
+<name>Cinemark Southpark Meadows</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AACDD">Cinemark</chain>
+<address>
+<street1>9900 S. IH-35 Service Rd. SB</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78748</postalCode>
+<country>USA</country>
+</address>
+<URL>www.cinemark.com</URL>
+<telephone>800-326-3264-2140</telephone>
+<screenCount>14</screenCount>
+<longitude>-97.8278</longitude>
+<latitude>30.1649</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="9414" aaCode="AAUNJ">
+<name>Cinemark Hill Country Galleria</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AACDD">Cinemark</chain>
+<address>
+<street1>12812 Hill Country Blvd.</street1>
+<city>Bee Cave</city>
+<state>TX</state>
+<postalCode>78738</postalCode>
+<country>USA</country>
+</address>
+<URL>www.cinemark.com</URL>
+<telephone>800-326-3264-2142</telephone>
+<screenCount>14</screenCount>
+<longitude>-97.9405</longitude>
+<latitude>30.3090</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="9415" aaCode="AAUNK">
+<name>Cinemark Cedar Park</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AACDD">Cinemark</chain>
+<address>
+<street1>1335 E. Whitestone Blvd.</street1>
+<city>Cedar Park</city>
+<state>TX</state>
+<postalCode>78613</postalCode>
+<country>USA</country>
+</address>
+<URL>www.cinemark.com</URL>
+<telephone>800-326-3264-2143</telephone>
+<screenCount>12</screenCount>
+<longitude>-97.8139</longitude>
+<latitude>30.5260</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="9489" aaCode="AAUQP">
+<name>Alamo Drafthouse at the Ritz</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AABWY">Independent Chains</chain>
+<address>
+<street1>320 East 6th St.</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78701</postalCode>
+<country>USA</country>
+</address>
+<URL>www.originalalamo.com</URL>
+<telephone>512-476-1320</telephone>
+<screenCount>2</screenCount>
+<longitude>-97.7401</longitude>
+<latitude>30.2673</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="9849" aaCode="AAVEY">
+<name>ShowBiz Cinemas 8</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAVNP">ShowBiz Cinemas</chain>
+<address>
+<street1>2600 Highway 281 North</street1>
+<city>Marble Falls</city>
+<state>TX</state>
+<postalCode>78654</postalCode>
+<country>USA</country>
+</address>
+<URL>www.showbizcinemas.com</URL>
+<telephone>830-798-8463</telephone>
+<screenCount>8</screenCount>
+<longitude>-98.2849</longitude>
+<latitude>30.5851</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="10199" aaCode="AAVVZ">
+<name>The Howard Theatre</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AABWY">Independent Chains</chain>
+<address>
+<street1>308 N. Main St.</street1>
+<city>Taylor</city>
+<state>TX</state>
+<postalCode>76574</postalCode>
+<country>USA</country>
+</address>
+<URL>www.howardtheatre.com</URL>
+<telephone>512-352-2995</telephone>
+<screenCount>2</screenCount>
+<longitude>-97.4095</longitude>
+<latitude>30.5698</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="10228" aaCode="AAVZO">
+<name>iPic Theaters at The Domain Austin</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAWUT">iPic Theaters</chain>
+<address>
+<street1>3225 Amy Donovan Plaza</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78758</postalCode>
+<country>USA</country>
+</address>
+<URL>www.ipictheaters.com</URL>
+<screenCount>8</screenCount>
+<longitude>-97.7271</longitude>
+<latitude>30.3862</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="10401" aaCode="AAWIH">
+<name>Cinemark Stone Hill Town Center</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AACDD">Cinemark</chain>
+<address>
+<street1>18820 Hilltop Commercial Dr.</street1>
+<city>Pflugerville</city>
+<state>TX</state>
+<postalCode>78660</postalCode>
+<country>USA</country>
+</address>
+<URL>www.cinemark.com</URL>
+<telephone>800-326-3264-2163</telephone>
+<screenCount>9</screenCount>
+<longitude>-97.5981</longitude>
+<latitude>30.4701</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="10420" aaCode="AAWJB">
+<name>Violet Crown Cinema</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AABWY">Independent Chains</chain>
+<address>
+<street1>434 W. 2nd St</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78701</postalCode>
+<country>USA</country>
+</address>
+<URL>www.violetcrowncinema.com</URL>
+<telephone>512-495-9600</telephone>
+<screenCount>4</screenCount>
+<longitude>-97.7479</longitude>
+<latitude>30.2653</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="10445" aaCode="AAWKE">
+<name>Flix Brewhouse by Galaxy Theatres</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAVMW">Galaxy Theatres</chain>
+<address>
+<street1>2200 S. Interstate Hwy 35 Suite B1</street1>
+<city>Round Rock</city>
+<state>TX</state>
+<postalCode>78681</postalCode>
+<country>USA</country>
+</address>
+<URL>www.flixbrewhouse.com</URL>
+<telephone>512-244-3549</telephone>
+<screenCount>6</screenCount>
+<longitude>-97.7082</longitude>
+<latitude>30.5140</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="10569" aaCode="AAWQE">
+<name>Alamo Drafthouse Slaughter Lane</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAWLQ">Alamo Drafthouse</chain>
+<address>
+<street1>5701 W. Slaughter Lane</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78749</postalCode>
+<country>USA</country>
+</address>
+<URL>www.drafthouse.com</URL>
+<screenCount>8</screenCount>
+<longitude>-97.8685</longitude>
+<latitude>30.2010</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="10672" aaCode="AAWUR">
+<name>Moviehouse and Eatery Dine-In</name>
+<types>
+<type>First run</type>
+<type>Theatre/Pub</type>
+</types>
+<chain chainAaCode="AABWY">Independent Chains</chain>
+<address>
+<street1>8300 FM 620 N.</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78726</postalCode>
+<country>USA</country>
+</address>
+<URL>www.themoviehouse.com</URL>
+<telephone>512-501-3520</telephone>
+<screenCount>11</screenCount>
+<longitude>-97.8458</longitude>
+<latitude>30.4198</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="10673" aaCode="AAWUS">
+<name>Moviehouse and Eatery</name>
+<types>
+<type>First run</type>
+<type>Theatre/Pub</type>
+</types>
+<chain chainAaCode="AABWY">Independent Chains</chain>
+<address>
+<street1>8300 FM 620 N.</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78726</postalCode>
+<country>USA</country>
+</address>
+<URL>http://www.moviehouse.com</URL>
+<telephone>512-501-3520</telephone>
+<screenCount>11</screenCount>
+<longitude>-97.8458</longitude>
+<latitude>30.4198</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="10745" aaCode="AAWXW">
+<name>Lost Pines 8</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAWXU">Schulman Theatres</chain>
+<address>
+<street1>1600 Chestnut St.</street1>
+<city>Bastrop</city>
+<state>TX</state>
+<postalCode>78602</postalCode>
+<country>USA</country>
+</address>
+<URL>www.schulmantheatres.com</URL>
+<telephone>512-321-1234</telephone>
+<screenCount>8</screenCount>
+<longitude>-97.3090</longitude>
+<latitude>30.1107</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="10761" aaCode="AAWYO">
+<name>Alamo Drafthouse Lakeline</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AAWLQ">Alamo Drafthouse</chain>
+<address>
+<street1>14028 N. U.S. Highway 183, Building F</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78717</postalCode>
+<country>USA</country>
+</address>
+<URL>http://drafthouse.com/austin/lakeline/</URL>
+<telephone>512-476-1320</telephone>
+<screenCount>10</screenCount>
+<longitude>-97.8012</longitude>
+<latitude>30.4766</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="10901" aaCode="AAXEA">
+<name>Lake Creek 7</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AABWY">Independent Chains</chain>
+<address>
+<street1>13729 Research Blvd.</street1>
+<city>Austin</city>
+<state>TX</state>
+<postalCode>78750</postalCode>
+<country>USA</country>
+</address>
+<URL>southwesttheaters.com</URL>
+<screenCount>7</screenCount>
+<longitude>-97.7925</longitude>
+<latitude>30.4588</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+<theatre theatreId="10925" aaCode="AAXFH">
+<name>Hometown Cinemas, LLC</name>
+<types>
+<type>First run</type>
+</types>
+<chain chainAaCode="AABWY">Independent Chains</chain>
+<address>
+<street1>120 MLK Industrial Blvd. West</street1>
+<city>Lockhart</city>
+<state>TX</state>
+<postalCode>78644</postalCode>
+<country>USA</country>
+</address>
+<URL>hometowncinemas.com</URL>
+<telephone>512-398-4144</telephone>
+<screenCount>6</screenCount>
+<longitude>-97.6700</longitude>
+<latitude>29.8615</latitude>
+<active>true</active>
+<marketIds>
+<marketId type="DMA">635</marketId>
+</marketIds>
+</theatre>
+</theatres>
+</sources>
+</on>
